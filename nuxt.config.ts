@@ -17,7 +17,7 @@ export default defineNuxtConfig({
   css: ["~/assets/css/main.scss"],
   
   // Modules Import
-  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/google-fonts', '@nuxt/ui', '@nuxt/image'],
+  modules: ['@nuxtjs/google-fonts', '@nuxt/ui', '@nuxt/image'],
 
   // PostCSS Configuration
   postcss: {
