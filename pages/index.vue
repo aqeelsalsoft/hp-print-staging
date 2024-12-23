@@ -29,7 +29,7 @@ const items = [{
         <LazyGeneralCTABarWrapper title="From Pixels To Perfect Prints" description="Business Cards, Banners, Merchandise, Brochures, And More Delivered!" buttontext="Get Started" />
         <LazyHomeFeaturedProductsCarouselWrapper />
         <LazyHomePrintShopGridWrapper />
-        <LazyGeneralClientLogosCarouselWrapper />
+        <!-- <LazyGeneralClientLogosCarouselWrapper /> -->
         <LazyHomeWeGoBeyondWrapper />
         <LazyHomeBehindTheSceneWrapper />
         <LazyGeneralCTABarWrapper title="Last-minute printing? Rush orders?" description="Consider it done with Half Price Print." buttontext="Get A Quote" />
