@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="hpp__appFooter">
+    <div class="logo__carouselWrapper">
         
     </div>
 </template>

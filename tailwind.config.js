@@ -11,7 +11,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        headings: 'Quicksand, sans-serif', // Adds a new `font-headings` class
+        headings: 'Montserrat, sans-serif', // Adds a new `font-headings` class
         description: 'Poppins, sans-serif', // Adds a new `font-text` class
       },
     },

@@ -6,6 +6,7 @@
     <div class="hpp__appHeader">
         <TopBarWrapper />
         <HeaderTopWrapper />
+        <HeaderMainNavigationWrapper />
     </div>
 </template>
 

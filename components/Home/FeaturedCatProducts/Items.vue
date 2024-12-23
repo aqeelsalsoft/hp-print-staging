@@ -9,11 +9,11 @@
             <div class="item__wrap hpp__featuredGridItem">
                 <NuxtLink to="#">
                     <div class="thumb__wrap">
-                        <img src="/images/featured-grid/stickers-labels-thumbnail.jpg" alt="Stickers and Labels Thumbnail"
+                        <img src="/images/featured-grid/thumbnail-tshirts.jpg" alt="T Shirts"
                             class="w-full h-auto" />
                     </div>
                     <div class="desc__wrap py-[17px] px-[23px]">
-                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Stickers & Labels</h2>
+                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">T Shirts</h2>
                     </div>
                 </NuxtLink>
             </div>
@@ -21,11 +21,11 @@
             <div class="item__wrap hpp__featuredGridItem">
                 <NuxtLink to="#">
                     <div class="thumbnail">
-                        <img src="/images/featured-grid/fashion-textile-thumbnail.jpg" alt="Fashion & Textile Thumbnail"
+                        <img src="/images/featured-grid/thumbnail-jersey.jpg" alt="Jersey"
                             class="w-full h-auto" />
                     </div>
                     <div class="desc__wrap py-[17px] px-[23px]">
-                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Fashion & Textile</h2>
+                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Jersey</h2>
                     </div>
                 </NuxtLink>
             </div>
@@ -33,11 +33,11 @@
             <div class="item__wrap hpp__featuredGridItem">
                 <NuxtLink to="#">
                     <div class="thumbnail">
-                        <img src="/images/featured-grid/business-branding-thumbnail.jpg" alt="Business Branding Thumbnail"
+                        <img src="/images/featured-grid/thumbnail-caps.jpg" alt="Caps"
                             class="w-full h-auto" />
                     </div>
                     <div class="desc__wrap py-[17px] px-[23px]">
-                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Business Branding</h2>
+                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Caps</h2>
                     </div>
                 </NuxtLink>
             </div>
@@ -45,11 +45,11 @@
             <div class="item__wrap hpp__featuredGridItem">
                 <NuxtLink to="#">
                     <div class="thumbnail">
-                        <img src="/images/featured-grid/signage-thumbnail.jpg" alt="Signage Thumbnail"
+                        <img src="/images/featured-grid/decorative-pillows-and-cushions.jpg" alt="Decorative Pillows and Cushions"
                             class="w-full h-auto" />
                     </div>
                     <div class="desc__wrap py-[17px] px-[23px]">
-                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Signage</h2>
+                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Decorative Pillows and Cushions</h2>
                     </div>
                 </NuxtLink>
             </div>

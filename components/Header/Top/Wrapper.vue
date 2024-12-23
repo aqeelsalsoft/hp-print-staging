@@ -3,9 +3,13 @@
 </script>
 
 <template>
-    <div class="hpp__headerTopWrapper pt-[36px] pb-[17px]">
+    <div class="hpp__headerTopWrapper py-[13px]">
         <div class="container mx-auto px-[15px]">
-            <HeaderLogoWrapper />
+            <div class="flex justify-between items-center">
+                <HeaderLogoWrapper />
+                <HeaderSearchBarWrapper />
+                <HeaderContactDetailsWrapper />
+            </div>
         </div>
     </div>
 </template>

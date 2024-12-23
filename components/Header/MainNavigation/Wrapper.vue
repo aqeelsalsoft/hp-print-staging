@@ -3,9 +3,9 @@
 </script>
 
 <template>
-    <div class="hpp__featuredItemsGridWrapper py-[23px] mb-[30px]">
+    <div class="hpp__mainNavigationWrapper border-t border-[#DFDFDF] py-[16px]">
         <div class="container mx-auto px-[15px]">
-            <FeaturedItemsGridItems />
+            <HeaderMainNavigationNavItems />
         </div>
     </div>
 </template>
