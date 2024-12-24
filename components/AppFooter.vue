@@ -3,9 +3,10 @@
 </script>
 
 <template>
-    <footer class="hpp__appFooter bg-[#242424] pt-[60px] pb-[100px]">
+    <footer class="hpp__appFooter bg-[#242424] pt-[60px] pb-0">
         <LazyFooterTopAreaWrapper />
         <LazyFooterMiddleAreaWrapper />
+        <LazyFooterCopyrightWrapper />
     </footer>
 </template>
 
