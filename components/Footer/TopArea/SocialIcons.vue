@@ -3,7 +3,8 @@
 </script>
 
 <template>
-    <div class="footer__socialIconsWrap border-b border-[#383636] pb-[45px]">
+    <!-- <div class="footer__socialIconsWrap border-b border-[#383636] pb-[45px]"> -->
+    <div class="footer__socialIconsWrap">
         <h4 class="font-headings font-semibold text-[#BABABA] text-[15px] mb-[30px]">Connnect with us!</h4>
         <ul class="social__navWrap flex">
             <li class="px-[7px]">

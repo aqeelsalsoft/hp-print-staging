@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div class="hpp__mainNavigationWrapper border-t border-[#DFDFDF] py-[16px]">
+    <div class="hpp__mainNavigationWrapper border-t border-b border-[#DFDFDF] py-[16px]">
         <div class="container mx-auto px-[15px]">
             <HeaderMainNavigationNavItems />
         </div>

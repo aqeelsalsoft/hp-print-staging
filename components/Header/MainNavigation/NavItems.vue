@@ -4,7 +4,7 @@
 
 <template>
     <nav class="main__navWrapper">
-        <ul class="nav__wrapper flex justify-center items-center">
+        <ul class="nav__wrapper flex justify-center items-center gap-[40px]">
             <li><a href="#">View All Products</a></li>
             <li><a href="#">Marketing Material</a></li>
             <li><a href="#">Stickers & Labels</a></li>
@@ -19,8 +19,6 @@
 <style lang="scss" scoped>
 .nav__wrapper {
     li {
-        @apply px-[10px];
-
         a {
             @apply font-headings font-semibold text-[#592033] text-[16px];
         }

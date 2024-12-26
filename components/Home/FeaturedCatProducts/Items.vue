@@ -9,7 +9,7 @@
             <div class="item__wrap hpp__featuredGridItem">
                 <NuxtLink to="#">
                     <div class="thumb__wrap">
-                        <img src="/images/featured-grid/thumbnail-tshirts.jpg" alt="T Shirts"
+                        <img src="/images/featured-grid/thumbnail-tshirts.jpg" alt="T Shirts Thumbnail"
                             class="w-full h-auto" />
                     </div>
                     <div class="desc__wrap py-[17px] px-[23px]">
@@ -21,7 +21,7 @@
             <div class="item__wrap hpp__featuredGridItem">
                 <NuxtLink to="#">
                     <div class="thumbnail">
-                        <img src="/images/featured-grid/thumbnail-jersey.jpg" alt="Jersey"
+                        <img src="/images/featured-grid/thumbnail-jersey.jpg" alt="Jersey Thumbnail"
                             class="w-full h-auto" />
                     </div>
                     <div class="desc__wrap py-[17px] px-[23px]">
@@ -33,7 +33,7 @@
             <div class="item__wrap hpp__featuredGridItem">
                 <NuxtLink to="#">
                     <div class="thumbnail">
-                        <img src="/images/featured-grid/thumbnail-caps.jpg" alt="Caps"
+                        <img src="/images/featured-grid/thumbnail-caps.jpg" alt="Caps Thumbnail"
                             class="w-full h-auto" />
                     </div>
                     <div class="desc__wrap py-[17px] px-[23px]">
@@ -45,11 +45,11 @@
             <div class="item__wrap hpp__featuredGridItem">
                 <NuxtLink to="#">
                     <div class="thumbnail">
-                        <img src="/images/featured-grid/decorative-pillows-and-cushions.jpg" alt="Decorative Pillows and Cushions"
+                        <img src="/images/featured-grid/decorative-pillows-and-cushions.jpg" alt="Pillows and Cushions Thumbnail"
                             class="w-full h-auto" />
                     </div>
                     <div class="desc__wrap py-[17px] px-[23px]">
-                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Decorative Pillows and Cushions</h2>
+                        <h2 class="my-0 text-[20px] font-bold color-[#1A202C]">Pillows and Cushions</h2>
                     </div>
                 </NuxtLink>
             </div>
